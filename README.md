@@ -8,10 +8,8 @@
 </head>
 <body>
     <h1>Hola Mundo</h1>
-    
-    <ol>
-        <li><a href="javascript/indice.html">Javascript</a></li>
-    </ol>
-    
+
+<a href="javascript/indice.html">Javascript</a>
+
 </body>
 </html>
